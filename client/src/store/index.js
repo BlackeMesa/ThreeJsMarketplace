@@ -4,10 +4,10 @@ const state = proxy({
 
     intro: true,
     color: '#EFBD4E',
-    isLogoTetxture: true,
+    isLogoTexture: true,
     isFullTexture: false,
     logoDecal: './threejs.png',
-    fullDecal: './threejs.pg'
+    fullDecal: './threejs.png'
 
 });
 
